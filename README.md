@@ -5,7 +5,7 @@ Arquitectura dirigida por modelos usando Jinja2
 El proyecto cuenta con un grupo de clases en python que usa MDA para generar código para un lenguaje específico (DSL), en este caso para html, java, js y php.
 
 # Ejecución del proyecto
-Ejecutar la clase 
+Ejecutar la clase entity_codegen.py, ingresar a la carpeta codGenerado para visualizar los archivos. 
 
 # Construido con:
 El lenguaje Python
