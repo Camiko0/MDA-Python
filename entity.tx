@@ -20,6 +20,7 @@ Property:
                                 // registered on meta-model in entity_test.py
 ;
 
+
 // Type can be SimpleType or Entity
 Type:
     SimpleType | Entity
